@@ -222,10 +222,3 @@ Os Web Components possuem quatro fundamentos:
 - HTML Imports: Permite importar páginas HTML completas, incluindo o JavaScript e CSS embutidos nelas.
 
 Você pode usar o stencilJS que faz parte do Ionic Framework.
----
-## Simara Conceição
-- [instagram](https://www.instagram.com/simara_conceicao)
-- [linkedin](https://www.linkedin.com/in/simaraconceicao/)
-- [github](https://github.com/simaraconceicao)
-- [spotify](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3)
-- [quero ser dev](https://queroserdev.com)
